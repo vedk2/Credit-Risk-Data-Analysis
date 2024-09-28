@@ -12,7 +12,6 @@ This repository contains an exploratory data analysis (EDA) of the German Credit
 6. [Conclusion](#conclusion)
 7. [Future Work](#future-work)
 8. [Contributing](#contributing)
-9. [License](#license)
 
 ## Project Overview
 
@@ -68,10 +67,6 @@ The analysis indicates a strong relationship between housing status and the amou
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new insights, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## How to View the Analysis
 
